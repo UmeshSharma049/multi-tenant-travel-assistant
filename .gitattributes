@@ -1,0 +1,4 @@
+# Keep Unix line endings for scripts so they stay executable on Linux/WSL,
+# regardless of the OS they are cloned or edited on.
+*.sh    text eol=lf
+*.bash  text eol=lf
